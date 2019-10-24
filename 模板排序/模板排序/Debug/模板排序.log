@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of 源.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\练习1\练习1\源.cpp, 源.cpp.
+  源.cpp
+d:\c语言\大二\第一学期\模板排序\模板排序\源.cpp(12): warning C4838: 从“double”转换到“float”需要收缩转换
+d:\c语言\大二\第一学期\模板排序\模板排序\源.cpp(12): warning C4305: “初始化”: 从“double”到“float”截断
+  模板排序.vcxproj -> D:\c语言\大二\第一学期\模板排序\Debug\模板排序.exe
+  模板排序.vcxproj -> D:\c语言\大二\第一学期\模板排序\Debug\模板排序.pdb (Partial PDB)
