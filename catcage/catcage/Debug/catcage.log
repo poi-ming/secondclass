@@ -1,0 +1,6 @@
+﻿  源.cpp
+d:\c语言\大二\第一学期\catcage\catcage\cat.h(50): warning C4715: “furcol”: 不是所有的控件路径都返回值
+d:\c语言\大二\第一学期\catcage\catcage\cat.h(38): warning C4715: “eyecol”: 不是所有的控件路径都返回值
+d:\c语言\大二\第一学期\catcage\catcage\cat.h(60): warning C4715: “furlength”: 不是所有的控件路径都返回值
+  catcage.vcxproj -> D:\c语言\大二\第一学期\catcage\Debug\catcage.exe
+  catcage.vcxproj -> D:\c语言\大二\第一学期\catcage\Debug\catcage.pdb (Partial PDB)
