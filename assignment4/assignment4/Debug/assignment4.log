@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\c语言\大二\第一学期\assignment4\assignment4\rational.h(75): warning C4172: 返回局部变量或临时变量的地址: temp
+  assignment4.vcxproj -> D:\c语言\大二\第一学期\assignment4\Debug\assignment4.exe
+  assignment4.vcxproj -> D:\c语言\大二\第一学期\assignment4\Debug\assignment4.pdb (Partial PDB)
